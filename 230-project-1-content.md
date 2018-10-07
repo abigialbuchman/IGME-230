@@ -15,7 +15,7 @@ Captain Ahab has finally met his maker in his attempt to bring down the white wh
 
 ## Aesthetics
 
-The graphics style will be 16-bit pixel art with ambient music as well as sound effects.
+The graphics style will be 16-bit pixel art with ambient background music to fit the mood of the game (creepy fun) as well as 16 bit sound effects.
             
 ## Gameplay
 
