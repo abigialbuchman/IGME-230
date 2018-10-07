@@ -25,9 +25,6 @@ The goal of the game is to aim and shoot demons and other lost souls with Captai
 
 The mood of the game will be creepy, but fun creepy, like Courage the Cowardly Dog or Gravity Falls. While the game will have spooky elements because you are going through hades, but it is not a horror game.
 
-## Screenshot examples
-![alt text]()
-            <img alt="screenshot 2" src="images/IMG_7102.jpg">
 ## About the Developer
 
 Abigail Buchman is a second year GDD major at RIT. She is originally from Seattle, WA and is interested in programing (especially in C# and Java) and story design. 
